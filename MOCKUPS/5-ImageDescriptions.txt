@@ -1,0 +1,28 @@
+1-Intro.png
+	This is the intro screen for the game.  We will animate it and the user will be asked to press
+ a button to start the game.
+
+2-GameStart.png
+	This is the screen that will appear after the into window has been closed.  It has 3 rows of 4
+ bricks that are blue and will change color when they are hit.  The Score and Lives are displayed in 
+the top corner and the paddle and ball are at the bottom.
+
+
+3-GameInProgress.png
+	This is an example of how the game will look when a game is in progress.  The red bricks only
+ need to be hit one more time to be destroyed.  The yellow need to be hit two more times, and the blue 
+hasn’t been hit yet.
+
+
+4-GameOver.png
+	The game over screen.  This will display when the user runs out of lives.  It will display 
+their score.
+
+
+
+
+
+
+I don’t think the design will change too much when we implement it.  Colors and UI elements will 
+probably change, but the overall flow and look will probably be pretty close to the mockup images.  We
+ will need more bricks per the project description however. 

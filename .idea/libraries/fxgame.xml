@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fxgame">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/fxgame.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
